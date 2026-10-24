@@ -1,3 +1,4 @@
+
 # Datheon Machine Learning & Data Science Internship
 
 This repository contains my project work for the Datheon Machine Learning & Data Science Internship.
@@ -43,3 +44,5 @@ Folder: `datheon_task4_sentiment_classifier_package`
 ## Note
 
 Model performance and results should be verified by executing the notebooks in the intended environment.
+
+# Datheon_Machine_Learning_Data_Science_Internship
